@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2180B1C7-054A-459E-B140-14F59A6663E0}|API_Core.csproj|c:\\users\\dylan\\onedrive\\escritorio\\tec\\2024\\semestre ii\\bases de datos ii\\py01\\api_core\\models\\supplierdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2180B1C7-054A-459E-B140-14F59A6663E0}|API_Core.csproj|solutionrelative:models\\supplierdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2180B1C7-054A-459E-B140-14F59A6663E0}|API_Core.csproj|c:\\users\\dylan\\onedrive\\escritorio\\tec\\2024\\semestre ii\\bases de datos ii\\py01\\api_core\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2180B1C7-054A-459E-B140-14F59A6663E0}|API_Core.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2180B1C7-054A-459E-B140-14F59A6663E0}|API_Core.csproj|c:\\users\\dylan\\onedrive\\escritorio\\tec\\2024\\semestre ii\\bases de datos ii\\py01\\api_core\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2180B1C7-054A-459E-B140-14F59A6663E0}|API_Core.csproj|solutionrelative:models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2180B1C7-054A-459E-B140-14F59A6663E0}|API_Core.csproj|c:\\users\\dylan\\onedrive\\escritorio\\tec\\2024\\semestre ii\\bases de datos ii\\py01\\api_core\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2180B1C7-054A-459E-B140-14F59A6663E0}|API_Core.csproj|solutionrelative:controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,58 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SupplierDetails.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\Models\\SupplierDetails.cs",
-              "RelativeDocumentMoniker": "Models\\SupplierDetails.cs",
-              "ToolTip": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\Models\\SupplierDetails.cs",
-              "RelativeToolTip": "Models\\SupplierDetails.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAswBgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T03:54:59.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SupplierController.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\Controllers\\SupplierController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SupplierController.cs",
-              "ToolTip": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\Controllers\\SupplierController.cs",
-              "RelativeToolTip": "Controllers\\SupplierController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAswDkAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T04:22:53.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAswJAAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T04:51:21.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Supplier.cs",
-              "DocumentMoniker": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\Models\\Supplier.cs",
-              "RelativeDocumentMoniker": "Models\\Supplier.cs",
-              "ToolTip": "C:\\Users\\dylan\\OneDrive\\Escritorio\\TEC\\2024\\Semestre II\\Bases de datos II\\PY01\\API_Core\\Models\\Supplier.cs",
-              "RelativeToolTip": "Models\\Supplier.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T03:54:43.347Z",
-              "EditorCaption": ""
             }
           ]
         }
